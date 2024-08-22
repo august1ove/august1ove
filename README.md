@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-[![august's github stats](https://github-readme-stats.vercel.app/api?username=augustlove&show_icons=true&locale=cn)](https://github.com/mingk326)
+[![august1ove's github stats](https://github-readme-stats.vercel.app/api?username=augustlove&show_icons=true&locale=cn)](https://github.com/mingk326)
 
 Contact:
 
