@@ -3,7 +3,7 @@
 整天半吊子和不学无术的坏孩子,梦想成为庄稼地里的读书人.....
 
 
-[![august1ove's github stats](https://github-readme-stats.vercel.app/api?username=augustlove&show_icons=true&locale=cn)](https://github.com/august1ove)
+[![august1ove's github stats](https://github-readme-stats.vercel.app/api?username=august1ove&show_icons=true&locale=cn)](https://github.com/august1ove)
 
 Contact:
 
